@@ -1,4 +1,4 @@
-package Ejercicio56;
+package Relacion52;
 
 public class Ejercicio56 {
 }
